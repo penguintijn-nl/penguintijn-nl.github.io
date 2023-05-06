@@ -5,7 +5,7 @@ entries:
     appVersion: "1.0"
     created: "2019-07-03T13:03:06.139332963-05:00"
     description: A Helm chart for Kubernetes
-    digest: 48cf831b72febeac2860a0be372094250aea68a9c76147c028085c8802dd48ec
+    digest: DA9F7B9B586718B153353680DB1CF25363C9E3AFE9FA1E8AFA594C633C98C051
     name: cloudnet
     urls:
     - https://github.com/penguintijn-nl/penguintijn-nl.github.io/raw/main/charts/cloudnetservice/cloudnetservice-0.1.0.tgz
